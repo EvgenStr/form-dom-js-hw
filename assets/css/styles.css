@@ -1,9 +1,13 @@
-.formWrapper{
+.formWrapper {
   display: flex;
   flex-direction: column;
   align-items: center;
   margin: 50px auto;
 }
-li{
+
+li {
   text-align: right;
+}
+hr {
+  width: 100%;
 }
